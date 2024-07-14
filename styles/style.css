@@ -285,7 +285,7 @@ span{
 	justify-content: space-around;
 	align-items: center;
 	flex-direction: column;
-	height: 300px;
+	height: 330px;
 	width: 250px;
 	margin: 50px;
 	color: white;
@@ -294,7 +294,7 @@ span{
 	font-family: sans-serif;
 	border: 1px solid transparent;
 	border-radius: 20px;
-	padding: 10px;
+	padding: 30px;
 	text-align: center;
 	cursor: pointer;
 	box-shadow: 1px 1px 20px #FF5F1F,
@@ -318,7 +318,7 @@ span{
 	justify-content: space-around;
 	align-items: center;
 	flex-direction: column;
-	height: 300px;
+	height: 330px;
 	width: 250px;
 	margin: 50px;
 	color: white;
@@ -327,7 +327,7 @@ span{
 	font-family: sans-serif;
 	border: 1px solid transparent;
 	border-radius: 20px;
-	padding: 10px;
+	padding: 30px;
 	text-align: center;
 	cursor: pointer;
 	box-shadow: 1px 1px 20px  #3b8eec,
@@ -351,7 +351,7 @@ span{
 	justify-content: space-around;
 	align-items: center;
 	flex-direction: column;
-	height: 300px;
+	height: 330px;
 	width: 250px;
 	margin: 50px;
 	color: white;
@@ -360,7 +360,7 @@ span{
 	font-family: sans-serif;
 	border: 1px solid transparent;
 	border-radius: 20px;
-	padding: 10px;
+	padding: 30px;
 	text-align: center;
 	cursor: pointer;
 	box-shadow: 1px 1px 20px rgb(202, 92, 245),
