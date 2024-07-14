@@ -270,7 +270,7 @@ span{
 .skills p{
 	color: white;
 	font-size: var(--p-font);
-	padding-bottom: 10px;
+	padding-top: 20px;
 	text-align: center;
 }
 .items{
