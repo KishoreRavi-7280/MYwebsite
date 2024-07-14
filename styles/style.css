@@ -552,14 +552,15 @@ span{
 .one{
 	background: #ffffff;
 	border-radius: 12px;
-	padding: 45px 45px 45px 45px;
+	padding: 20px 20px 20px 10px;
 	transition: ease .45s;
 	cursor: pointer;
+
 }
 .two{
 	background: #ffffff;
 	border-radius: 12px;
-	padding: 45px 45px 45px 45px;
+	padding: 20px 20px 20px 10px;
 	transition: ease .45s;
 	cursor: pointer;
 }
@@ -588,11 +589,10 @@ span{
 	font-size: var(--p-font);
 	color: var(--secound-color);
 	line-height: 28px;
+	padding-bottom: 10px;
 }
 .one a{
 	color: black;
-	position: relative;
-	top: 20px;
 	font-size: 15px;
 	font-weight: 600;
 }
@@ -614,11 +614,10 @@ span{
 	font-size: var(--p-font);
 	color: var(--secound-color);
 	line-height: 28px;
+	padding-bottom: 10px;
 }
 .two a{
 	color: black;
-	position: relative;
-	top: 20px;
 	font-size: 15px;
 	font-weight: 600;
 }
@@ -962,12 +961,12 @@ span{
 	}
 	.one{
 		width: 300px;
-		height: 400px;
+		height: 430px;
 		display: flex;
 		flex-direction: column;
 	}
 	.two{
 		width: 300px;
-		height: 400px;
+		height: 430px;
 	}
 }
