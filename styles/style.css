@@ -309,7 +309,7 @@ span{
 }
 .html:hover{
 	transform: scale(1.1);
-	background: white;
+	background: rgb(184, 183, 183);
 	transition: 0.3s;
 	color: black;
 }
@@ -342,7 +342,7 @@ span{
 }
 .css:hover{
 	transform: scale(1.1);
-	background: white;
+	background: rgb(184, 183, 183);
 	transition: 0.3s;
 	color: black;
 }
@@ -375,7 +375,7 @@ span{
 }
 .boostrap:hover{
 	transform: scale(1.1);
-	background: white;
+	background: rgb(184, 183, 183);
 	transition: 0.3s;
 	color: black;
 }
