@@ -126,20 +126,78 @@ span{
 .social-media a{
 	width: 35px;
 	height: 35px;
-	border-radius: 50%;
 	display: inline-flex;
 	align-items: center;
 	justify-content: center;
-	border: 1px solid #0ef;
 	font-size: 17px;
 	color: var(--bg-color);
 	margin-right: 22px;
 	margin-bottom: 30px;
 }
-.social-media a:hover{
+.ln{
+	width: 35px;
+	height: 35px;
+	border-radius: 50%;
+	border: 1px solid #0ef;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 17px;
+	color: var(--bg-color);
+	margin-right: 22px;
+	margin-bottom: 30px;
+}
+.ln:hover{
 	transform: scale(1.1);
-	background: #da1ff3;
+	background: linear-gradient(to bottom, #0A4B8E, #0077B5);
 	transition: .5s;
+}
+.gh{
+	width: 35px;
+	height: 35px;
+	border-radius: 50%;
+	border: 1px solid #0ef;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 17px;
+	color: var(--bg-color);
+	margin-right: 22px;
+	margin-bottom: 30px;
+}
+.gh:hover{
+	transform: scale(1.1);
+	background: linear-gradient(to right, #0D0D0D, #181717);
+	transition: .5s;
+}
+.twit{
+	width: 35px;
+	height: 35px;
+	border-radius: 50%;
+	border: 1px solid #0ef;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 17px;
+	color: var(--bg-color);
+	margin-right: 22px;
+	margin-bottom: 30px;
+}
+.twit:hover{
+	transform: scale(1.1);
+	background: linear-gradient(to right, #1DA1F2, #A6D9F7);
+	transition: .5s;
+}
+.btn{
+	display: inline-block;
+	color: var(--bg-color);
+	background: var(--main-color);
+	font-size: var(--p-font);
+	padding: 10px 40px;
+	font-weight: 500;
+	line-height: 24px;
+	border-radius: 30px;
+	transition: ease .40s;
 }
 .btn{
 	display: inline-block;
