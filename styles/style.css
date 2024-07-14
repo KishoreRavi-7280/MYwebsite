@@ -597,6 +597,7 @@ span{
 	font-weight: 600;
 }
 .one:hover{
+	background: rgb(241, 240, 243);
 	will-change: transform;
 	transform: perspective(1000px) rotateX(4.80deg) rotateY(10.23deg) scale3d(1.05,1.05,1.05);
 }
@@ -622,6 +623,7 @@ span{
 	font-weight: 600;
 }
 .two:hover{
+	background: rgb(241, 240, 243);
 	will-change: transform;
 	transform: perspective(1000px) rotateX(-4.80deg) rotateY(-10.23deg) scale3d(1.05,1.05,1.05);
 }
