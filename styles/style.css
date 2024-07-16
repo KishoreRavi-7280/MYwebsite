@@ -959,7 +959,7 @@ span{
 }
 @media (max-width:768px){
 	.col{
-		width: 300px
-		height: auto
+		width: 300px;
+		height: auto;
             }
 }
