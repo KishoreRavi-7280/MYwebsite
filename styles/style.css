@@ -395,7 +395,7 @@ span{
 	color: #6b7280;
 	line-height: 29px;
 }
-.projects{
+/*.projects{
     background:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(../img/background.png);
 }
 .project-content{
@@ -409,7 +409,7 @@ span{
 	cursor: pointer;
 	margin-top: 0;
 }
-/*col{
+col{
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
