@@ -395,7 +395,7 @@ span{
 	color: #6b7280;
 	line-height: 29px;
 }
-.projects{
+/*.projects{
     background:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(../img/background.png);
 }
 .project-content{
@@ -414,8 +414,8 @@ span{
 	justify-content: space-around;
 	align-items: center;
 	flex-direction: column;
-	height: 400px;
-	width: 350px;
+	height: 300px;
+	width: 300px;
 	margin: 50px;
 	color: white;
 	font-size: 18px;
@@ -466,7 +466,7 @@ span{
 	bottom: 0;
 	left: 35%;
 	font-weight: 600;
-}
+}*/
 .heading{
 	text-align: center;
 }
@@ -966,3 +966,4 @@ span{
 	
 	}
 }
+
